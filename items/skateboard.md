@@ -3,7 +3,7 @@ layout: layout.liquid
 title: My Skateboard
 ---
 
-# My Skateboard <a class="essentials_title"></a>
+<h1 class="essentials_title">My Skateboard</h1>
 
 <img src="/images/skateboard.png" alt="My Skateboard" class="essential_images">
 

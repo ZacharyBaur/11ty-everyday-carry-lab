@@ -3,7 +3,7 @@ layout: layout.liquid
 title: My Keys
 ---
 
-# My Keys <a class="essentials_title"></a>
+<h1 class="essentials_title">My Keys</h1>
 
 <img src="/images/keys.png" alt="My Keys" class="essential_images">
 

@@ -3,7 +3,7 @@ layout: layout.liquid
 title: My Wallet
 ---
 
-# My Wallet
+# My Wallet <a class="essentials_title"></a>
 
 <img src="/images/wallet.png" alt="My Wallet" class="essential_images">
 

@@ -79,10 +79,15 @@ footer {
     background-color: #F0E7D8;
     text-align: center;
     padding: 10px;
-    margin-top: 20px;
+    margin-top: 40px;
 }
 
 .essentials_title {
+    margin-top: 20px;
+    margin-bottom: 20px;
+}
+
+p {
     margin-top: 20px;
     margin-bottom: 20px;
 }

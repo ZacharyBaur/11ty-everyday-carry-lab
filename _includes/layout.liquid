@@ -1,7 +1,3 @@
----
-title: 11ty Boilerplate
----
-
 <!DOCTYPE html>
 <html lang="en">
 <head>
@@ -13,10 +9,12 @@ title: 11ty Boilerplate
 <body>
   <nav>
     <ul>
-      <li><a href="/" title="Go home">Home</a></li>
-      <li><a href="/about/" title="About the boilerplate">About</a></li>
+      <li><a href="/" title="My Essentials">My Essentials</a></li>
     </ul>
   </nav>
     {{ content }}
+  <footer>
+    © {{ "now" | date: "%Y" }} My 11ty Site
+  </footer>
 </body>
 </html>

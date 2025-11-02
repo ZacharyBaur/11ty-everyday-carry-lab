@@ -1,5 +1,5 @@
 body {
-    font-family: Helvetica, sans-serif;
+    font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
     color: #A63A50;
     background: #F0E7D8;
     padding: 0 40px;
@@ -51,4 +51,33 @@ img.about {
 
 .essential_images {
     width: 300px;
+}
+
+#homepage_title {
+    margin-top: 20px;
+    margin-bottom: 20px;
+}
+
+#essentials_list {
+    list-style-type: none;
+    font-size: 36pt;
+    margin:0px;
+}
+
+#essentials_list li {
+    margin-top: 10px;
+}
+
+#essentials_list li a {
+    color: #A63A50;
+}
+
+footer {
+    bottom: 0;
+    left: 0;
+    width: 100%;
+    background-color: #F0E7D8;
+    text-align: center;
+    padding: 10px;
+    margin-top: 20px;
 }
